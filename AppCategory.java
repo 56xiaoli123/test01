@@ -2,6 +2,7 @@ package cn.appsys.pojo;
 
 import java.util.Date;
 
+
 public class AppCategory {
 	private Integer id;//主键id
 	private String categoryCode;//分类编码
@@ -11,7 +12,7 @@ public class AppCategory {
 	private Date creationDate;//创建时间
 	private Integer modifyBy;//更新者
 	private Date modifyDate;//更新时间
-	
+	111
 	public Integer getId() {
 		return id;
 	}

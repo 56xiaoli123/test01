@@ -18,6 +18,7 @@ public class AppCategory {
 	public void setId(Integer id) {
 		this.id = id;
 	}
+	333
 	public String getCategoryCode() {
 		return categoryCode;
 	}

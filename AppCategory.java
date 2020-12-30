@@ -15,6 +15,7 @@ public class AppCategory {
 	public Integer getId() {
 		return id;
 	}
+	222
 	public void setId(Integer id) {
 		this.id = id;
 	}

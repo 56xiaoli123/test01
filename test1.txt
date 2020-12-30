@@ -10,4 +10,8 @@ add2 fuc2
 sss
 sssd
 mmsd2
+<<<<<<< HEAD
 mmsd5
+=======
+mmsd6
+>>>>>>> 72496683a2730adc609c93075446773a14ba4c46

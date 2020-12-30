@@ -1,5 +1,7 @@
 adasdas11
 dd
+<<<<<<< HEAD
 add fuc1
 
 add2 fuc2
+=======

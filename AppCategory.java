@@ -12,14 +12,12 @@ public class AppCategory {
 	private Date creationDate;//创建时间
 	private Integer modifyBy;//更新者
 	private Date modifyDate;//更新时间
-	111
 	public Integer getId() {
 		return id;
 	}
 	public void setId(Integer id) {
 		this.id = id;
 	}
-	333
 	public String getCategoryCode() {
 		return categoryCode;
 	}
